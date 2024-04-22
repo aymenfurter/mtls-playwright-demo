@@ -20,7 +20,7 @@ Before running the project, make sure you have the following installed:
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/mtls-playwright-demo.git
+1. Clone the repository: git clone https://github.com/aymenfurter/mtls-playwright-demo
 2. Navigate to the project directory: cd mtls-playwright-demo
 3. Install the dependencies: npm install
 
