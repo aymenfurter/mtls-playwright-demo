@@ -31,7 +31,7 @@ Before running the project, make sure you have the following installed:
 3. Configure your Playwright Testing Preview workspace by adding a `playwright.config.js` file with your access token and service endpoint.
 4. Run the Playwright tests: npm test
 
-The tests will run using Microsoft Playwright Testing Preview, leveraging cloud-hosted browsers for parallel execution.
+The tests will run using Microsoft Playwright Testing Preview, leveraging cloud-hosted browsers.
 
 ## Component Diagram
 
