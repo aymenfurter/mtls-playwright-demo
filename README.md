@@ -39,7 +39,6 @@ The tests will run using Microsoft Playwright Testing Preview, leveraging cloud-
 graph LR
 A[Web Application] -- HTTPS --> B[API Server]
 C[Playwright Tests] -- Interacts With --> A
-C -- Mocks mTLS --> B
 C -- Runs On --> D[Microsoft Playwright Testing Preview]
 ```
 
